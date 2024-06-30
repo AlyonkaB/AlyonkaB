@@ -9,5 +9,5 @@ I am a Python 🐍  Developer. I work mainly with Django and Django REST Framewo
 
 🛠️ A few Technologies I use
 
-🐍 Python  🖌️ HTML/CSS  🔗 Git  🌐 Django 🕸️ REST  🐘 PostgreSQL  📔 SQLite 🔧 Pytest/Unittest  
+🐍 Python  🖌️ HTML/CSS  🔗 Git  🌐 Django 🕸️ REST  🐘 PostgreSQL  📔 SQLite 🔧 Pytest/Unittest  🐳 Docker
  
