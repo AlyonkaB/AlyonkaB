@@ -3,7 +3,7 @@ Hi 👋 there, I'm Alyona 👱‍♀️
 
 I am a Python 🐍  Developer. I work mainly with Django and Django REST Framework.
 
-💻 I am currently studying and working on a kitchen project with Django
+💻 I am currently studying and working on my first project  "kitchen project"  with Django
 
 📊 I am interested in and study algorithms and data structures
 
