@@ -4,7 +4,7 @@ I'm Alyona
 
 I live in Ukraine 🇺🇦
 
-**I am a Python 🐍  Developer.** I work mainly with Django and Django REST Framework.
+**I am a Python 🐍  Developer.** I work mainly with Django, Django REST Framework, FastAPI.
 
 💻 I'm currently studying and have finished working on my Django project ["Restaurant kitchen service"](https://github.com/AlyonkaB/-restaurant-kitchen-service)
 
@@ -18,4 +18,4 @@ I live in Ukraine 🇺🇦
 
 **🛠️ Skills**
 
-🐍 Python  🖌️ HTML/CSS  🔗 Git  🌐 Django 🕸️ REST  🐘 PostgreSQL  📔 SQLite 🔧 Pytest/Unittest  🐳 Docker
+🐍 Python  🖌️ HTML/CSS  🔗 Git  🌐 Django 🕸️ REST  ⚡🚀FastAPI  🐘 PostgreSQL  📔 SQLite 🔧 Pytest/Unittest  🐳 Docker 
